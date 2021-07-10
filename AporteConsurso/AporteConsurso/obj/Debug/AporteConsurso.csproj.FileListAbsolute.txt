@@ -1,0 +1,7 @@
+C:\Users\esalv\source\repos\AporteConsurso\AporteConsurso\bin\Debug\AporteConsurso.exe.config
+C:\Users\esalv\source\repos\AporteConsurso\AporteConsurso\bin\Debug\AporteConsurso.exe
+C:\Users\esalv\source\repos\AporteConsurso\AporteConsurso\bin\Debug\AporteConsurso.pdb
+C:\Users\esalv\source\repos\AporteConsurso\AporteConsurso\obj\Debug\AporteConsurso.csproj.AssemblyReference.cache
+C:\Users\esalv\source\repos\AporteConsurso\AporteConsurso\obj\Debug\AporteConsurso.csproj.CoreCompileInputs.cache
+C:\Users\esalv\source\repos\AporteConsurso\AporteConsurso\obj\Debug\AporteConsurso.exe
+C:\Users\esalv\source\repos\AporteConsurso\AporteConsurso\obj\Debug\AporteConsurso.pdb
